@@ -31,8 +31,8 @@ import {
   Col,
   UncontrolledTooltip
 } from "reactstrap";
-import landing from "assets/img/theme/landing.jpg";
-import profile from "assets/img/theme/profile.jpg";
+import landing from "assets/img/theme/2021-05-22 (1).png";
+import profile from "assets/img/theme/2021-05-22.png";
 
 class CardsFooter extends React.Component {
   render() {
